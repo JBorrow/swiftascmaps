@@ -1,4 +1,3 @@
-"""
 Taylor Swift color map collection.
 
 Includes color maps based on the following albums:
@@ -18,12 +17,11 @@ Usage
 To use these, you can import them and use them
 with matplotlib as you would with any other color map.
 
-.. code-block:: python
+```python
+from swiftascmaps import red
+from matplotlib.pyplot import imshow
+from numpy import random
 
-    from swiftascmaps import red
-    from matplotlib.pyplot import imshow
-    from numpy import random
+imshow(random.rand(128, 128), cmap=red)
+```
 
-    imshow(random.rand(128, 128), cmap=red)
-
-"""
