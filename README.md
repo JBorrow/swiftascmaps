@@ -25,3 +25,34 @@ from numpy import random
 imshow(random.rand(128, 128), cmap=red)
 ```
 
+Examples
+--------
+
+### Red
+
+![](images/red.png)
+
+### 1989
+
+![](images/1989.png)
+
+### Reputation
+
+![](images/reputation.png)
+
+### Lover
+
+![](images/lover.png)
+
+### Folklore
+
+![](images/folklore.png)
+
+
+Note
+----
+
+Of course, these aren't necessarily designed to be colorblind
+friendly, or perceptually uniform, so use them with caution.
+They are quite pretty though.
+
