@@ -39,3 +39,4 @@ nineteen_eighty_nine, nineteen_eighty_nine_r = make_custom_cmap(
 reputation, reputation_r = make_custom_cmap("reputation", colors.reputation)
 lover, lover_r = make_custom_cmap("lover", colors.lover)
 folklore, folklore_r = make_custom_cmap("folklore", colors.folklore)
+evermore, evermore_r = make_custom_cmap("evermore", colors.evermore)
