@@ -72,4 +72,4 @@ below.
 
 For quantitative comparisons, please ensure that you use a
 perceptually uniform colour map (see e.g. those available
-directly through [matplotlib](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.xticks.html)).
+directly through [matplotlib](https://matplotlib.org/3.1.0/tutorials/colors/colormaps.html)).
