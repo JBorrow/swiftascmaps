@@ -7,9 +7,10 @@ Includes color maps based on the following albums:
 + Reputation (reputation, reputation_r)
 + Lover (lover, lover_r)
 + Folklore (folklore, folklore_r)
++ Evermore (evermore, evermore_r, evermore_shifted, evermore_shifted_r)
 
 License: LGPLv3
-Author: Josh Borrow (josh.borrow@gmail.com)
+Author: Josh Borrow (josh@joshborrow.com)
 
 Usage
 -----
@@ -52,11 +53,23 @@ Examples
 
 ![](images/evermore.png)
 
+### Evermore shifted
+
+![](images/evermore_shifted.png)
+
 
 Note
 ----
 
 Of course, these aren't necessarily designed to be colorblind
 friendly, or perceptually uniform, so use them with caution.
-They are quite pretty though.
+They are quite pretty though. To underline how much you should
+_not_ use these in a real scientific publication (apart from
+perhaps qualitative imaging), the lightness values are shown
+below.
 
+![](images/lightness.png)
+
+For quantitative comparisons, please ensure that you use a
+perceptually uniform colour map (see e.g. those available
+directly through [matplotlib](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.xticks.html)).

@@ -40,3 +40,6 @@ reputation, reputation_r = make_custom_cmap("reputation", colors.reputation)
 lover, lover_r = make_custom_cmap("lover", colors.lover)
 folklore, folklore_r = make_custom_cmap("folklore", colors.folklore)
 evermore, evermore_r = make_custom_cmap("evermore", colors.evermore)
+evermore_shifted, evermore_shifted_r = make_custom_cmap(
+    "evermore_shifted", colors.evermore_shifted
+)
