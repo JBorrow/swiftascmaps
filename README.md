@@ -74,7 +74,7 @@ perhaps qualitative imaging), the lightness values are shown
 below.
 
 ![](images/lightness_swift_as_cmaps.png)
-![](images/lightness_cmaps_re_recording.png)
+![](images/lightness_cmaps_re_recordings.png)
 
 For quantitative comparisons, please ensure that you use a
 perceptually uniform colour map (see e.g. those available
