@@ -8,6 +8,7 @@ Includes color maps based on the following albums:
 + Lover (lover, lover_r)
 + Folklore (folklore, folklore_r)
 + Evermore (evermore, evermore_r, evermore_shifted, evermore_shifted_r)
++ Fearless: Taylor's Version (fearless_tv, fearless_tv_r)
 
 License: LGPLv3
 Author: Josh Borrow (josh@joshborrow.com)
@@ -57,6 +58,10 @@ Examples
 
 ![](images/evermore_shifted.png)
 
+### Fearless: Taylor's Version
+
+![](images/fearless_tv.png)
+
 
 Note
 ----
@@ -68,7 +73,8 @@ _not_ use these in a real scientific publication (apart from
 perhaps qualitative imaging), the lightness values are shown
 below.
 
-![](images/lightness.png)
+![](images/lightness_swift_as_cmaps.png)
+![](images/lightness_cmaps_re_recording.png)
 
 For quantitative comparisons, please ensure that you use a
 perceptually uniform colour map (see e.g. those available

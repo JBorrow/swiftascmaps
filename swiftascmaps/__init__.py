@@ -8,6 +8,8 @@ Includes color maps based on the following albums:
 + Reputation (reputation, reputation_r)
 + Lover (lover, lover_r)
 + Folklore (folklore, folklore_r)
++ Evermore (evermore, evermore_r, evermore_shifted, evermore_shifted_r)
++ Fearless: Taylor's Version (fearless_tv, fearless_tv_r)
 
 License: LGPLv3
 Author: Josh Borrow (josh.borrow@gmail.com)
@@ -43,3 +45,4 @@ evermore, evermore_r = make_custom_cmap("evermore", colors.evermore)
 evermore_shifted, evermore_shifted_r = make_custom_cmap(
     "evermore_shifted", colors.evermore_shifted
 )
+fearless_tv, fearless_tv_r = make_custom_cmap("fearless_tv", colors.fearless_tv)
