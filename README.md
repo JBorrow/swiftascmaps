@@ -1,6 +1,6 @@
 ## Taylor Swift color map collection.
 
-quick start: `pip install swiftascmaps`
+Quick start: `pip install swiftascmaps`
 
 Includes color maps based on the following albums:
 
