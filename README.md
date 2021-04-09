@@ -1,14 +1,16 @@
-Taylor Swift color map collection.
+## Taylor Swift color map collection.
+
+quick start: `pip install swiftascmaps`
 
 Includes color maps based on the following albums:
 
-+ Red (red, red_r)
-+ 1989 (nineteen_eighty_nine, nineteen_eighty_nine_r)
-+ Reputation (reputation, reputation_r)
-+ Lover (lover, lover_r)
-+ Folklore (folklore, folklore_r)
-+ Evermore (evermore, evermore_r, evermore_shifted, evermore_shifted_r)
-+ Fearless: Taylor's Version (fearless_tv, fearless_tv_r)
++ Red (`red`, `red_r`)
++ 1989 (`nineteen_eighty_nine`, `nineteen_eighty_nine_r`)
++ Reputation (`reputation`, `reputation_r`)
++ Lover (`lover`, `lover_r`)
++ Folklore (`folklore`, `folklore_r`)
++ Evermore (`evermore`, `evermore_r`, `evermore_shifted`, `evermore_shifted_r`)
++ Fearless: Taylor's Version (`fearless_tv`, `fearless_tv_r`)
 
 License: LGPLv3
 Author: Josh Borrow (josh@joshborrow.com)
