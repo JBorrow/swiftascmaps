@@ -33,6 +33,8 @@ The color maps can also be accessed in matplotlib using strings
 by prefixing `swift`, e.g.
 
 ```python
+import swiftascmaps
+
 imshow(random.rand(128, 128), cmap="swift.red")
 ```
 
