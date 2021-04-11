@@ -1,11 +1,16 @@
 import setuptools
 
+version = {}
+
+with open("swiftascmaps/version.py", "r") as fh:
+    exec(fh.read(), version)
+
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
     name="swiftascmaps",
-    version="1.2.0",
+    version=version["__version__"],
     description="Taylor Swift inspired Matplotlib colormaps.",
     url="https://github.com/jborrow/swiftascmaps",
     author="Josh Borrow",
