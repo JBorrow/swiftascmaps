@@ -29,6 +29,13 @@ from numpy import random
 imshow(random.rand(128, 128), cmap=red)
 ```
 
+The color maps can also be accessed in matplotlib using strings
+by prefixing `swift`, e.g.
+
+```python
+imshow(random.rand(128, 128), cmap="swift.red")
+```
+
 Examples
 --------
 
