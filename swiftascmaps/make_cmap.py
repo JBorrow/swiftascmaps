@@ -53,4 +53,5 @@ def make_custom_cmap(name: str, colors: List) -> Tuple[LinearSegmentedColormap]:
 
     register_cmap(cmap=cmap)
     register_cmap(cmap=cmap_r)
+    
     return cmap, cmap_r
