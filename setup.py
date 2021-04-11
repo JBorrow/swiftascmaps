@@ -2,7 +2,7 @@ import setuptools
 
 version = {}
 
-with open("swiftascmaps/version.py", "r") as fh:
+with open("./swiftascmaps/__version__.py", "r") as fh:
     exec(fh.read(), version)
 
 with open("README.md", "r") as fh:
