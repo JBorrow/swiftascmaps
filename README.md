@@ -1,5 +1,7 @@
 ## Taylor Swift color map collection.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5649259.svg)](https://doi.org/10.5281/zenodo.5649259)
+
 Quick start: `pip install swiftascmaps`
 
 Includes color maps based on the following albums:
