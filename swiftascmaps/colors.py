@@ -2,6 +2,8 @@
 Colors (defined as RGB values) for the Taylor Swift albums.
 """
 
+from swiftascmaps.make_cmap import hex_to_rgb
+
 red = [
     [40, 37, 62],
     [175, 30, 73],
@@ -61,3 +63,12 @@ fearless_tv = [
     [232, 206, 148],
     [250, 241, 200],
 ]
+
+red_tv = hex_to_rgb([
+    "#E7DDD5",
+    "#C5AD9A",
+    "#BA704B",
+    "#8F4C3A",
+    "#6F2019",
+    "#480200",
+])
