@@ -81,7 +81,7 @@ Examples
 
 ### Red: Taylor's Version
 
-![](images/red_tv.png)
+![](images/red_tv.jpg)
 
 
 Note
