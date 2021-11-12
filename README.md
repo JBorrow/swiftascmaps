@@ -13,6 +13,7 @@ Includes color maps based on the following albums:
 + Folklore (`folklore`, `folklore_r`)
 + Evermore (`evermore`, `evermore_r`, `evermore_shifted`, `evermore_shifted_r`)
 + Fearless: Taylor's Version (`fearless_tv`, `fearless_tv_r`)
++ Red: Taylor's Version (`red_tv`, `red_tv_r`)
 
 License: LGPLv3
 Author: Josh Borrow (josh@joshborrow.com)
@@ -77,6 +78,10 @@ Examples
 ### Fearless: Taylor's Version
 
 ![](images/fearless_tv.png)
+
+### Red: Taylor's Version
+
+![](images/red_tv.png)
 
 
 Note
