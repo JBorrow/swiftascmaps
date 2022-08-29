@@ -47,3 +47,4 @@ evermore_shifted, evermore_shifted_r = make_custom_cmap(
 )
 fearless_tv, fearless_tv_r = make_custom_cmap("fearless_tv", colors.fearless_tv)
 red_tv, red_tv_r = make_custom_cmap("red_tv", colors.red_tv)
+midnights, midnights_r = make_custom_cmap("midnights", colors.midnights)

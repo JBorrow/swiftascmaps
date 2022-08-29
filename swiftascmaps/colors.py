@@ -76,3 +76,12 @@ red_tv = hex_to_rgb(
         ]
     )
 )
+
+midnights = hex_to_rgb(
+    [
+        "#2A1828",
+        "#4F5D87",
+        "#83A5BA",
+        "#E8E7E3",
+    ]
+)
