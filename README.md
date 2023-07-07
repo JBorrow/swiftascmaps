@@ -15,6 +15,7 @@ Includes color maps based on the following albums:
 + Fearless: Taylor's Version (`fearless_tv`, `fearless_tv_r`)
 + Red: Taylor's Version (`red_tv`, `red_tv_r`)
 + Midnights (`midnights`, `midnights_r`)
++ Speak Now: Taylor's Version (`speak_now_tv`, `speak_now_tv_r`)
 
 License: LGPLv3
 Author: Josh Borrow (josh@joshborrow.com)
@@ -88,6 +89,10 @@ Examples
 
 ![](images/midnights.png)
 
+### Speak Now (Taylor's Version)
+
+![](images/speak_now_tv.jpg)
+
 Note
 ----
 
@@ -101,6 +106,7 @@ below.
 ![](images/lightness_swift_as_cmaps.png)
 ![](images/lightness_cmaps_re_recordings.png)
 ![](images/midnights_uniformity.png)
+![](images/speak_now_tv_uniformity.png)
 
 For quantitative comparisons, please ensure that you use a
 perceptually uniform colour map (see e.g. those available

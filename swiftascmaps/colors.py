@@ -85,3 +85,12 @@ midnights = hex_to_rgb(
         "#E8E7E3",
     ]
 )
+
+speak_now_tv = hex_to_rgb(
+    [
+        "#0E0E0E",
+        "#693C83",
+        "#B58CB5",
+        "#EEE6DC",
+    ]
+)

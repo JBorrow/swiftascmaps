@@ -10,6 +10,8 @@ Includes color maps based on the following albums:
 + Folklore (folklore, folklore_r)
 + Evermore (evermore, evermore_r, evermore_shifted, evermore_shifted_r)
 + Fearless: Taylor's Version (fearless_tv, fearless_tv_r)
++ Midnights (midnights, midnights_r)
++ Speak Now: Taylor's Version (speak_now_tv, speak_now_rv_r)
 
 License: LGPLv3
 Author: Josh Borrow (josh.borrow@gmail.com)
@@ -48,3 +50,5 @@ evermore_shifted, evermore_shifted_r = make_custom_cmap(
 fearless_tv, fearless_tv_r = make_custom_cmap("fearless_tv", colors.fearless_tv)
 red_tv, red_tv_r = make_custom_cmap("red_tv", colors.red_tv)
 midnights, midnights_r = make_custom_cmap("midnights", colors.midnights)
+speak_now_tv, speak_now_tv_r = make_custom_cmap("speak_now_tv", colors.speak_now_tv)
+
