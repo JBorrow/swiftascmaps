@@ -16,6 +16,7 @@ Includes color maps based on the following albums:
 + Red: Taylor's Version (`red_tv`, `red_tv_r`)
 + Midnights (`midnights`, `midnights_r`)
 + Speak Now: Taylor's Version (`speak_now_tv`, `speak_now_tv_r`)
++ 1989: Taylor's Version (nineteen_eighty_nine_tv, nineteen_eighty_nine_tv_r)
 
 License: LGPLv3
 Author: Josh Borrow (josh@joshborrow.com)
@@ -49,49 +50,7 @@ imshow(random.rand(128, 128), cmap="swift.red")
 Examples
 --------
 
-### Red
-
-![](images/red.png)
-
-### 1989
-
-![](images/1989.png)
-
-### Reputation
-
-![](images/reputation.png)
-
-### Lover
-
-![](images/lover.png)
-
-### Folklore
-
-![](images/folklore.png)
-
-### Evermore
-
-![](images/evermore.png)
-
-### Evermore shifted
-
-![](images/evermore_shifted.png)
-
-### Fearless: Taylor's Version
-
-![](images/fearless_tv.png)
-
-### Red: Taylor's Version
-
-![](images/red_tv.jpg)
-
-### Midnights
-
-![](images/midnights.png)
-
-### Speak Now (Taylor's Version)
-
-![](images/speak_now_tv.jpg)
+![](images/maps.png)
 
 Note
 ----
@@ -103,10 +62,7 @@ _not_ use these in a real scientific publication (apart from
 perhaps qualitative imaging), the lightness values are shown
 below.
 
-![](images/lightness_swift_as_cmaps.png)
-![](images/lightness_cmaps_re_recordings.png)
-![](images/midnights_uniformity.png)
-![](images/speak_now_tv_uniformity.png)
+![](images/uniformity.png)
 
 For quantitative comparisons, please ensure that you use a
 perceptually uniform colour map (see e.g. those available

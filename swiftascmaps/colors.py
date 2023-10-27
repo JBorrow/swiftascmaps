@@ -94,3 +94,12 @@ speak_now_tv = hex_to_rgb(
         "#EEE6DC",
     ]
 )
+
+nineteen_eighty_nine_tv = hex_to_rgb(
+    [
+        "#412416",
+        "#3D6D93",
+        "#99B0BD",
+        "#F7F6F4",
+    ]
+)
