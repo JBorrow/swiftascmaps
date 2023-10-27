@@ -28,9 +28,7 @@ def hex_to_rgb(colors: List[str]) -> List[List[int]]:
     rgb_colors = []
 
     for color in colors:
-        rgb_colors.append(
-            list(int(color[1:][i:i+2], 16) for i in (0, 2, 4))
-        )
+        rgb_colors.append(list(int(color[1:][i : i + 2], 16) for i in (0, 2, 4)))
 
     return rgb_colors
 
@@ -80,5 +78,5 @@ def make_custom_cmap(name: str, colors: List) -> Tuple[LinearSegmentedColormap]:
 
     register_cmap(cmap=cmap)
     register_cmap(cmap=cmap_r)
-    
+
     return cmap, cmap_r
