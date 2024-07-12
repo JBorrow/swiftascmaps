@@ -22,7 +22,7 @@ License: LGPLv3
 Author: Josh Borrow (josh@joshborrow.com)
 
 If you prefer to use `R`, there is an alternative package
-maintained as [taloRswift](https://github.com/asteves/tayloRswift).
+maintained as [tayloRswift](https://github.com/asteves/tayloRswift).
 
 Usage
 -----
