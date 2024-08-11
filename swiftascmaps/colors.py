@@ -98,3 +98,12 @@ speak_now_tv = hex_to_rgb(
 nineteen_eighty_nine_tv = hex_to_rgb(
     ["#3A1F16", "#C13C25", "#D7AB8A", "#FBFAF8", "#7EA7C5", "#446D8D", "#1F2D3B"]
 )
+
+the_tortured_poets_department = hex_to_rgb(
+    [
+        "#5C5854",
+        "#BDAE95",
+        "#C7C2B9",
+        "#EFECE8",
+    ]
+)

@@ -45,7 +45,8 @@ plot_color_gradients("Matplotlib: Taylor's Color Maps",
     "swift.fearless_tv",
     "swift.midnights",
     "swift.speak_now_tv",
-    "swift.nineteen_eighty_nine_tv"
+    "swift.nineteen_eighty_nine_tv",
+    "swift.the_tortured_poets_department"
 ]
 )
 
