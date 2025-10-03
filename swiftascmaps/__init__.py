@@ -55,3 +55,6 @@ speak_now_tv, speak_now_tv_r = make_custom_cmap("speak_now_tv", colors.speak_now
 nineteen_eighty_nine_tv, nineteen_eighty_nine_tv_r = make_custom_cmap(
     "nineteen_eighty_nine_tv", colors.nineteen_eighty_nine_tv
 )
+life_of_a_showgirl, life_of_a_showgirl_r = make_custom_cmap(
+    "life_of_a_showgirl", colors.life_of_a_showgirl
+)

@@ -98,3 +98,13 @@ speak_now_tv = hex_to_rgb(
 nineteen_eighty_nine_tv = hex_to_rgb(
     ["#3A1F16", "#C13C25", "#D7AB8A", "#FBFAF8", "#7EA7C5", "#446D8D", "#1F2D3B"]
 )
+
+life_of_a_showgirl = hex_to_rgb(
+    [
+        "#111B04",
+        "#3C4D35",
+        "#458C72",
+        "#70CEAC",
+        "#FBF9FE"
+    ]
+)

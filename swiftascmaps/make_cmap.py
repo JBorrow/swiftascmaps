@@ -3,7 +3,13 @@ Wrapper function for making color maps from lists
 of colors.
 """
 
-from matplotlib.cm import register_cmap
+try:
+    from matplotlib import colormaps
+    register_cmap = colormaps.register
+except ImportError:
+    # Backwards compatibility
+    from matplotlib.cm import register_cmap
+
 from matplotlib.colors import LinearSegmentedColormap
 from typing import List, Tuple
 
